@@ -4,7 +4,7 @@ Official PyTorch implementation of ''Triple Robustness Augmentation Local Featur
 
 ## Comming soon
 
-- [] Evaluation code and pretrained models for TRFeat.
+- [ ] Evaluation code and pretrained models for TRFeat.
 
 
 ## License
