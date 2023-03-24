@@ -1,7 +1,6 @@
 # TRFeat
 Official PyTorch implementation of ''Triple Robustness Augmentation Local Features for Multi-source Image Registration'' (TRFeat). 
 
-![Framework](imgs/framework.jpg) 
 
 ## Comming soon
 
@@ -14,7 +13,9 @@ Our code is released under the Creative Commons BY-NC-SA 3.0 (see [LICENSE](LICE
 ## Our other available local feature methods
 
 1.MTLDesc: Looking Wider to Describe Better  (https://github.com/vignywang/MTLDesc) AAAI2022
+
 2.CNDesc: Cross Normalization for Local Descriptors Learning (https://github.com/vignywang/CNDesc) TMM2022
+
 3.AWDesc: Attention Weighted Local Descriptors (https://github.com/vignywang/AWDesc) TPAMI2023
 
 ## Requirements  
