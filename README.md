@@ -1,10 +1,10 @@
 # TRFeat
-Official PyTorch implementation of ''Triple Robustness Augmentation Local Features for Multi-source Image Registration'' (TRFeat). 
+Official PyTorch implementation of ''Triple Robustness Augmentation Local Features for Multi-source Image Registration'' (ISPRS2023). 
 
 
 ## Comming soon
 
-- [ ] Evaluation code and pretrained models for TRFeat. (Coming soon after being accepted, and for non-commercial use only)
+- [ ] Evaluation code and pretrained models for TRFeat. (Coming soon and for non-commercial use only)
 
 
 ## License
